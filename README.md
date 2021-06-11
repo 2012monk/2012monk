@@ -36,13 +36,21 @@
 
 
 
-## Languages and Tools  
+## Languges
 <img height='40' src="https://img.shields.io/badge/java-2541b2?logo=Java&logoColor=white&style=for-the-badge"> <img height='40' src="https://img.shields.io/badge/JavaScript-fb9300?logo=JavaScript&logoColor=white&style=for-the-badge"> <img height='40' src="https://img.shields.io/badge/Python-deedf0?logo=Python&logoColor=03256c&style=for-the-badge">  
   
 
+<br/>
 
 
-### Web  
+
+
+## Tech Stacks
+
+
+<h3><p align="center">Web</p></h3>
+
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
@@ -54,7 +62,7 @@
 
 
 
-### DevOps  
+<h3><p align="center">Dev Ops</p></h3>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />  
