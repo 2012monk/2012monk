@@ -1,6 +1,7 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=2012monk&&style=flat-square)  
   
-![header](https://capsule-render.vercel.app/api?type=rounded&color=47597e&text=LeeSeongMook&fontColor=fff5eb)
+# 👏  I'm LeeSeongMook
+
 <div align="center">
 <a href="https://github.com/2012monk" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
