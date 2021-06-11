@@ -6,9 +6,11 @@
 <a href="https://github.com/2012monk" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
+  
 </div>  
 
-### 안녕하세요!
+### 안녕하세요!<img src="https://github-readme-stats.vercel.app/api?username=2012monk&show_icons=true&count_private=true&hide_border=true" align="right" style="width: 100%" />
+
 문제해결과 도전을 좋아하는 개발자 입니다.
 
 지속가능한 문제해결에 관심이 있습니다. 👏  
@@ -46,7 +48,6 @@
 <br/>  
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=2012monk&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2012monk&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
