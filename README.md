@@ -1,18 +1,15 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=2012monk&&style=flat-square)  
   
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=47597e&text=LeeSeongMook&fontColor=fff5eb)
-## <div align="center">👋</div>  
-  
-
 <div align="center">
 <a href="https://github.com/2012monk" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
 
-### 안녕하세요!  
+### 안녕하세요!
 
-
+<div algin="center">
 문제해결과 도전을 좋아하는 개발자 입니다.
 
 지속가능한 문제해결에 관심이 있습니다. 👏  
@@ -22,11 +19,10 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=2012monk&show_icons=true&count_private=true&hide_border=true"  style="width: 100%; float: left" />
 
 
 
-
+  </div>
 
 
 
@@ -47,17 +43,11 @@
 
 
 
-## Languges
+## Tech Stacks
 <img height='40' src="https://img.shields.io/badge/java-2541b2?logo=Java&logoColor=white&style=for-the-badge"> <img height='40' src="https://img.shields.io/badge/JavaScript-fb9300?logo=JavaScript&logoColor=white&style=for-the-badge"> <img height='40' src="https://img.shields.io/badge/Python-deedf0?logo=Python&logoColor=03256c&style=for-the-badge">  
   
 
 <br/>
-
-
-
-
-## Tech Stacks
-
 
 <h3><p align="center">Web</p></h3>
 
@@ -83,8 +73,8 @@
 
 <br/>  
 
-## Github Stats  
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=2012monk&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" /> -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=2012monk&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2012monk&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
