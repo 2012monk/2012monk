@@ -11,12 +11,23 @@
 </div>  
 
 ### 안녕하세요!  
+
+
 문제해결과 도전을 좋아하는 개발자 입니다.
 
 지속가능한 문제해결에 관심이 있습니다. 👏  
-  
 
-<br/>  
+
+<br />
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=2012monk&show_icons=true&count_private=true&hide_border=true"  style="width: 100%; float: left" />
+
+
+
+
+
 
 
 ## Quick  
