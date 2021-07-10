@@ -1,6 +1,6 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=2012monk&&style=flat-square)  
   
-# 👏  I'm LeeSeongMook
+#  I'm LeeSeongMook
 
 <div align="center">
 <a href="https://github.com/2012monk" target="_blank">
