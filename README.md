@@ -22,10 +22,14 @@
   
 
 - ❓ I'm currently interested in ORM   
-
+<div align="center">  
 ## Tech Stacks
 <img height='40' src="https://img.shields.io/badge/java-2541b2?logo=Java&logoColor=white&style=for-the-badge"> <img height='40' src="https://img.shields.io/badge/JavaScript-fb9300?logo=JavaScript&logoColor=white&style=for-the-badge"> <img height='40' src="https://img.shields.io/badge/Python-deedf0?logo=Python&logoColor=03256c&style=for-the-badge">  
-  
+</div>  
+
+<br/>  
+
+
 
 <br/>
 
