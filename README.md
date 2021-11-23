@@ -25,8 +25,8 @@
 
 - ❓ I'm currently interested in ORM
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=2012monk})](https://solved.ac/2012monk})
+
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=2012monk)](https://solved.ac/2012monk)
 
 
 ## Tech Stacks
